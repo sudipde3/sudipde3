@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sudip De
-- 👀 I’m interested in Artificial Intelligence
+- 👀 I’m interested in Data Scientist / Machine Learning / Artificial Intelligence
 - 🌱 I’m currently learning C/ C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
